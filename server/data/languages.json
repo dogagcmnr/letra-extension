@@ -48,3 +48,9 @@
     "voice": "Brazilian Portuguese Female"
   }
 }
+{
+  "turkish": {
+    voice: "Turkish Female",
+    flag: "twa-turkey-flag"
+  }
+}
